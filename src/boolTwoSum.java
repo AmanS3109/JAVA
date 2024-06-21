@@ -1,7 +1,7 @@
 public class boolTwoSum {
     public static void main(String[] args) {
         int[] arr = {1, 3, 4, 6, 8, 10, 13};
-        int target = 13;
+        int target = 15;
         System.out.println(isPairSum(arr, target));
     }
 //    static boolean isPairSum(int[] arr, int target){
